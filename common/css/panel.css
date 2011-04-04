@@ -1,0 +1,99 @@
+.clear{clear:both;font-height:.1%;padding:0;margin:0;display:block;} 
+.iefix{position:relative;width:100%;}/*i love stupid hacks*/
+.clearfix:after {content: ".";display: block;height: 0;clear: both;visibility: hidden;}
+.clearfix {display: inline-block;}
+html[xmlns] .clearfix {display: block;}
+* html .clearfix {height: 1%;}
+
+#photo-content{
+}
+
+#photo-content .px_panel{
+	width:660px;
+}
+#photo-content .px_fs1{
+	float:left;
+	width:203px;
+	margin-left:0;
+	height:145px;
+}
+#photo-content .px_fs2{
+	float:left;
+	width:244px;
+	height:145px;
+}
+#photo-content .px_fs2 select{
+	width:160px;
+}
+#photo-content .px_fs3{
+	float:left;
+	margin-bottom:10px;
+	width:140px;
+	margin-right:0;
+	height:145px;
+}
+
+#photo-content .px_holder{
+	border:1px solid #ccc;
+	height:300px;
+	overflow:auto;
+	width:658px;
+}
+#photo-content fieldset{
+	border:1px solid #ccc;
+	padding:.75em;
+}
+#photo-content fieldset label{
+}
+#photo-content fieldset label input{
+	margin:1px;
+	padding:3px;
+}
+
+#px_message{
+	width:650px;
+	margin:0;
+	margin-left:-325px;
+	left:50%;
+	top:0;
+	position:fixed;
+	z-index:300;
+}
+
+.error {
+	background: #FFEFF7 url(../img/error.png) no-repeat 1em;
+	border: 1px solid #c69;
+	margin: 1em 5% 10px;
+	padding: 0 1em 0 3em;
+}
+
+.px_holder table{
+	width:580px;
+	padding:0;
+	margin:0;
+}
+.px_holder table td{
+	width:145px;
+	overflow:hidden;
+}
+.px_holder table td p{
+	width:140px;
+	overflow:hidden;
+}
+.px_holder table td.ui-selected{
+	background:#eaeaea;
+}
+
+.px_small_input{
+	width:10px;
+}
+
+.loadingbg{
+	background:url(../img/loader.gif) no-repeat right center;
+}
+.px_reset{
+	border:none;
+	padding:0;
+	margin:0;
+	background:none;
+}

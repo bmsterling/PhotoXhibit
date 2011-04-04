@@ -1,0 +1,1360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PhotoXhibit: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-23 23:12-0500\n"
+"PO-Revision-Date: 2008-03-23 23:13-0500\n"
+"Last-Translator: Benjamin Sterling <benjamin.sterling@kenzomedia.com>\n"
+"Language-Team:  <benjamin.sterling@kenzomedia.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-Basepath: H:\\Inetpub\\wwwroot\\kenzomedia\\benjaminsterling\\www\\wp-content\\plugins\\photoxhibit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: photoxhibit.php:56
+msgid "<b>PhotoXhibit only supports version 2.1 and up of WP</b>"
+msgstr ""
+
+#: common/inc/px.php:119
+msgid "OverView"
+msgstr ""
+
+#: common/inc/px.php:120
+msgid "Manage Gallery"
+msgstr ""
+
+#: common/inc/px.php:121
+msgid "Build Gallery"
+msgstr ""
+
+#: common/inc/px.php:123
+msgid "Manage Album"
+msgstr ""
+
+#: common/inc/px.php:125
+msgid "Options"
+msgstr ""
+
+#: common/inc/px.php:127
+msgid "About"
+msgstr ""
+
+#: common/inc/px.php:329
+msgid "No gallery id"
+msgstr ""
+
+#: common/inc/px.php:336
+msgid "Styles have been updated"
+msgstr ""
+
+#: common/inc/px.php:339
+msgid "Error(s) on update:"
+msgstr ""
+
+#: common/inc/px.php:1287
+msgid "Please help support this project with a donation.  All monies donated will go toward hosting and bandwidth."
+msgstr ""
+
+#: common/inc/px.php:1598
+msgid "The following files have been uploaded with out issue:"
+msgstr ""
+
+#: common/inc/pages/about.php:9
+msgid "Credits / Copyrights / Communications"
+msgstr ""
+
+#: common/inc/pages/about.php:11
+msgid "Development"
+msgstr ""
+
+#: common/inc/pages/about.php:12
+msgid "As it stands now, Benjamin Sterling is the sole developer of the PhotoXhibit Wordpress plugin but can't do it all, so if you are interested in  helping with the development of PhotoXhibit, please contact <a href=\"http://benjaminsterling.com/contact-me/\" target=\"_blank\">Benjamin Sterling</a>"
+msgstr ""
+
+#: common/inc/pages/about.php:15
+msgid "Do Respect"
+msgstr ""
+
+#: common/inc/pages/about.php:17
+msgid "Error Icon from http://www.everaldo.com/"
+msgstr ""
+
+#: common/inc/pages/about.php:18
+msgid "XML Parser Class (Eric Rosebrock) http://www.phpfreaks.com"
+msgstr ""
+
+#: common/inc/pages/about.php:19
+msgid "JSON Class (Cesar D. Rodas) http://cesars.users.phpclasses.org/json"
+msgstr ""
+
+#: common/inc/pages/about.php:21
+msgid "How to Help"
+msgstr ""
+
+#: common/inc/pages/about.php:23
+msgid "Send bugs / bug fixes / ideas / suggestions"
+msgstr ""
+
+#: common/inc/pages/about.php:25
+msgid "The best way to improve the plugin is to communicate bugs, the possible fixes for those bugs, the ideas that will make this \t\t\tplugin unmatched, and suggestions on how to grow my hair back."
+msgstr ""
+
+#: common/inc/pages/about.php:27
+msgid "Translations"
+msgstr ""
+
+#: common/inc/pages/about.php:29
+msgid "I would like to make this plugin accessible to as many people as possible, so if you are willing to translate everything into \t\t\t\t\tthe language that you are fluent in, please let me know."
+msgstr ""
+
+#: common/inc/pages/about.php:34
+msgid "How to Support"
+msgstr ""
+
+#: common/inc/pages/about.php:36
+msgid "Place a link to the plugin in your blog/webpage"
+msgstr ""
+
+#: common/inc/pages/about.php:38
+msgid "A link /  a post reviewing this plugin is a great way to get the word out."
+msgstr ""
+
+#: common/inc/pages/about.php:40
+msgid "Make a donation"
+msgstr ""
+
+#: common/inc/pages/about.php:42
+msgid "Hosting cost a lot, I try to off load as much bandwidth as possible, but there is only so much I can do; so making a donation is a great way help keep the project going."
+msgstr ""
+
+#: common/inc/pages/albumManager.php:14
+#: common/views/album/edit_images.php:73
+msgid "Safe Mode is turn on on this server, you will need to manually create a folder for each album you want."
+msgstr ""
+
+#: common/inc/pages/albumManager.php:17
+msgid "PhotoXhibit Albums"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:20
+#: common/views/album/edit_images.php:82
+msgid "Quick Album Edit"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:25
+msgid "Select album"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:28
+msgid "No album selected"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:38
+msgid "Add new album"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:42
+msgid "Delete &raquo;"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:43
+msgid "Add &raquo;"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:53
+#: common/views/gallery/manager.php:17
+msgid "ID"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:54
+msgid "Album Title"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:55
+#: common/inc/pages/albumManager.php:74
+#: common/views/gallery/manager.php:23
+#: common/views/gallery/manager.php:52
+msgid "Delete"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:73
+#: common/inc/pages/build.php:13
+#: common/inc/pages/edit_styles.php:36
+#: common/views/gallery/manager.php:22
+#: common/views/gallery/manager.php:51
+msgid "Edit Images"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:84
+msgid "No Albums Found</strong>"
+msgstr ""
+
+#: common/inc/pages/albumManager.php:88
+msgid "You need GD Support for you to use these functions."
+msgstr ""
+
+#: common/inc/pages/build.php:11
+#: common/inc/pages/edit_image_attr.php:42
+#: common/views/gallery/manager.php:21
+#: common/views/gallery/manager.php:50
+msgid "Edit Styles"
+msgstr ""
+
+#: common/inc/pages/build.php:23
+msgid "PhotoXhibit Build"
+msgstr ""
+
+#: common/inc/pages/build.php:102
+msgid "Doubleclick on the images you want to add and they will be moved to the box on the right."
+msgstr ""
+
+#: common/inc/pages/build.php:103
+msgid "Below, if you have not figured it out, is the box on the right.  Doubleclick on a image if you want to remove it.  Click and drag an image if you want to reorder it."
+msgstr ""
+
+#: common/inc/pages/build.php:109
+msgid "Add All"
+msgstr ""
+
+#: common/inc/pages/build.php:110
+#: common/inc/pages/build.php:114
+msgid "note: if you have a lot of images the browser may hang for a second or so"
+msgstr ""
+
+#: common/inc/pages/build.php:113
+msgid "Remove All"
+msgstr ""
+
+#: common/inc/pages/edit_image_attr.php:39
+msgid "PhotoXhibit Image Attribute Editor"
+msgstr ""
+
+#: common/inc/pages/edit_image_attr.php:44
+#: common/inc/pages/edit_styles.php:38
+msgid "Edit Gallery"
+msgstr ""
+
+#: common/inc/pages/edit_image_attr.php:51
+msgid "Img"
+msgstr ""
+
+#: common/inc/pages/edit_image_attr.php:52
+msgid "Alt Tag"
+msgstr ""
+
+#: common/inc/pages/edit_image_attr.php:107
+msgid "Alt text has been updated"
+msgstr ""
+
+#: common/inc/pages/edit_styles.php:33
+msgid "PhotoXhibit Style Editor"
+msgstr ""
+
+#: common/inc/pages/edit_styles.php:50
+#: common/inc/pages/edit_styles.php:52
+msgid "Process Styles"
+msgstr ""
+
+#: common/inc/pages/options.php:14
+msgid "Basics"
+msgstr ""
+
+#: common/inc/pages/options.php:15
+msgid "Services"
+msgstr ""
+
+#: common/inc/pages/options.php:16
+#: common/inc/pages/parts/flickrParams.php:7
+msgid "Flickr Params"
+msgstr ""
+
+#: common/inc/pages/options.php:17
+#: common/inc/pages/parts/picasaParams.php:7
+msgid "Picasa Params"
+msgstr ""
+
+#: common/inc/pages/options.php:18
+#: common/inc/pages/parts/smugMugParams.php:7
+msgid "SmugMug Params"
+msgstr ""
+
+#: common/inc/pages/options.php:19
+#: common/inc/pages/parts/optionsBasics.php:7
+msgid "Album Basics"
+msgstr ""
+
+#: common/inc/pages/options.php:41
+#: common/inc/pages/parts/buildGalleryOptions.php:34
+#: common/views/album/edit_image_attr.php:39
+msgid "Submit Changes"
+msgstr ""
+
+#: common/inc/pages/overview.php:8
+msgid "PhotoXhibit Overview"
+msgstr ""
+
+#: common/inc/pages/overview.php:9
+msgid "Welcome to PhotoXhibit Administator Overview"
+msgstr ""
+
+#: common/inc/pages/overview.php:10
+msgid "Here you will be able to manage your images, feeds from your account with Flickr, Picasa, and / or SmugMug."
+msgstr ""
+
+#: common/inc/pages/overview.php:11
+msgid "FAQ"
+msgstr ""
+
+#: common/inc/pages/overview.php:13
+msgid "What is the difference between Gallery and Album?"
+msgstr ""
+
+#: common/inc/pages/overview.php:14
+msgid "The best I can explain is that Gallery is a show room and a Album is grouping of photos that you would use for a Gallery showing"
+msgstr ""
+
+#: common/inc/pages/overview.php:15
+msgid "Do I need to set up options?"
+msgstr ""
+
+#: common/inc/pages/overview.php:16
+msgid "No, not really, it will only make your life so much easier especially if you are going to be repeating your efforts"
+msgstr ""
+
+#: common/inc/pages/overview.php:20
+msgid "System Configuration"
+msgstr ""
+
+#: common/inc/pages/overview.php:25
+msgid "<strong>off</strong> on your server, there may be some things you can't do with this plugin."
+msgstr ""
+
+#: common/inc/pages/overview.php:27
+msgid "on"
+msgstr ""
+
+#: common/inc/pages/overview.php:30
+msgid "System memory limit:"
+msgstr ""
+
+#: common/inc/pages/overview.php:32
+msgid "Maximum uploadable file size:"
+msgstr ""
+
+#: common/inc/pages/overview.php:33
+msgid "Make sure this size is large enough, you won't be able to upload an image whose file size is bigger than this value."
+msgstr ""
+
+#: common/inc/pages/overview.php:35
+msgid "Maximum POST size:"
+msgstr ""
+
+#: common/inc/pages/overview.php:36
+msgid "If you want to upload more than one image at a time, make sure this limit is greater than the maximum file size x the number of images you want to upload at once."
+msgstr ""
+
+#: common/inc/pages/overview.php:40
+msgid "GD support:"
+msgstr ""
+
+#: common/inc/pages/overview.php:40
+#: common/views/album/edit_image_attr.php:24
+msgid "Yes"
+msgstr ""
+
+#: common/inc/pages/overview.php:43
+msgid "No GD support!"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumList.php:9
+msgid "Album Select"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumList.php:12
+msgid "Select One"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumList.php:21
+#: common/inc/pages/parts/buildFlickrAPI.php:36
+#: common/inc/pages/parts/buildFlickrBasic.php:19
+#: common/inc/pages/parts/buildFlickrOptions.php:39
+#: common/inc/pages/parts/buildFlickrPhotoset.php:36
+#: common/inc/pages/parts/buildFlickrSearch.php:77
+#: common/inc/pages/parts/buildPicasaAdvanced.php:50
+#: common/inc/pages/parts/buildPicasaBasic.php:19
+#: common/inc/pages/parts/buildPicasaOptions.php:35
+#: common/inc/pages/parts/buildServices.php:90
+#: common/inc/pages/parts/buildSmugMugAdvance.php:50
+#: common/inc/pages/parts/buildSmugMugAPI.php:36
+#: common/inc/pages/parts/buildSmugMugBasic.php:19
+#: common/inc/pages/parts/buildSmugMugOptions.php:38
+msgid "Next &raquo;"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumList.php:25
+#: common/inc/pages/parts/buildAlbumThumbnails.php:8
+#: common/inc/pages/parts/buildAlbumThumbnails.php:32
+#: common/inc/pages/parts/buildBrowse.php:8
+#: common/inc/pages/parts/buildBrowse.php:29
+#: common/inc/pages/parts/buildFlickrBasic.php:8
+#: common/inc/pages/parts/buildFlickrBasic.php:22
+#: common/inc/pages/parts/buildFlickrOptions.php:8
+#: common/inc/pages/parts/buildFlickrOptions.php:42
+#: common/inc/pages/parts/buildFlickrPhotoset.php:7
+#: common/inc/pages/parts/buildFlickrPhotoset.php:39
+#: common/inc/pages/parts/buildFlickrSearch.php:7
+#: common/inc/pages/parts/buildFlickrSearch.php:80
+#: common/inc/pages/parts/buildFlickrThumbnails.php:7
+#: common/inc/pages/parts/buildFlickrThumbnails.php:44
+#: common/inc/pages/parts/buildLocal.php:7
+#: common/inc/pages/parts/buildLocal.php:15
+#: common/inc/pages/parts/buildPicasaAdvanced.php:7
+#: common/inc/pages/parts/buildPicasaAdvanced.php:53
+#: common/inc/pages/parts/buildPicasaBasic.php:8
+#: common/inc/pages/parts/buildPicasaBasic.php:22
+#: common/inc/pages/parts/buildPicasaOptions.php:8
+#: common/inc/pages/parts/buildPicasaOptions.php:38
+#: common/inc/pages/parts/buildPicasaThumbnails.php:8
+#: common/inc/pages/parts/buildPicasaThumbnails.php:50
+#: common/inc/pages/parts/buildSmugMugAdvance.php:7
+#: common/inc/pages/parts/buildSmugMugAdvance.php:53
+#: common/inc/pages/parts/buildSmugMugBasic.php:8
+#: common/inc/pages/parts/buildSmugMugBasic.php:22
+#: common/inc/pages/parts/buildSmugMugOptions.php:8
+#: common/inc/pages/parts/buildSmugMugOptions.php:41
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:7
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:46
+msgid "Go back one step"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumThumbnails.php:10
+msgid "Album Thumbnail Size"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumThumbnails.php:13
+msgid "Select a thumbnail size"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumThumbnails.php:16
+#: common/inc/pages/parts/buildFlickrThumbnails.php:17
+#: common/inc/pages/parts/buildFlickrThumbnails.php:31
+#: common/inc/pages/parts/buildPicasaThumbnails.php:16
+#: common/inc/pages/parts/manager/panel.php:136
+msgid "Small"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumThumbnails.php:18
+#: common/inc/pages/parts/buildFlickrThumbnails.php:18
+#: common/inc/pages/parts/buildFlickrThumbnails.php:32
+#: common/inc/pages/parts/buildPicasaThumbnails.php:17
+#: common/inc/pages/parts/manager/panel.php:137
+msgid "Medium"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumThumbnails.php:20
+#: common/inc/pages/parts/buildFlickrThumbnails.php:19
+#: common/inc/pages/parts/buildFlickrThumbnails.php:33
+#: common/inc/pages/parts/buildPicasaThumbnails.php:18
+#: common/inc/pages/parts/manager/panel.php:138
+msgid "Large"
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumThumbnails.php:24
+#: common/inc/pages/parts/buildFlickrThumbnails.php:24
+#: common/inc/pages/parts/buildPicasaThumbnails.php:27
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:24
+msgid "Select the size of the thumbnail you want to display below.  This thumbnail size will also be used for the gallery you will choose."
+msgstr ""
+
+#: common/inc/pages/parts/buildAlbumThumbnails.php:29
+#: common/inc/pages/parts/buildBrowse.php:27
+#: common/inc/pages/parts/buildFlickrThumbnails.php:41
+#: common/inc/pages/parts/buildLocal.php:12
+#: common/inc/pages/parts/buildPicasaThumbnails.php:47
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:43
+msgid "Get Photos"
+msgstr ""
+
+#: common/inc/pages/parts/buildBrowse.php:10
+msgid "Browse"
+msgstr ""
+
+#: common/inc/pages/parts/buildBrowse.php:13
+msgid "Your browsable directory URL"
+msgstr ""
+
+#: common/inc/pages/parts/buildBrowse.php:15
+msgid "Input the URL for the \"browsable\" directory, default:"
+msgstr ""
+
+#: common/inc/pages/parts/buildBrowse.php:19
+msgid "Your thumbnail prefix"
+msgstr ""
+
+#: common/inc/pages/parts/buildBrowse.php:21
+msgid "default:"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrBasic.php:10
+msgid "Flickr Basic"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrBasic.php:13
+msgid "Your Flickr URL"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrBasic.php:15
+msgid "Input the URL for the RSS feed for your Flickr account"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:10
+msgid "Flickr Options"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:13
+#: common/inc/pages/parts/buildPicasaOptions.php:13
+#: common/inc/pages/parts/buildSmugMugOptions.php:13
+msgid "What Options?"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:17
+#: common/inc/pages/parts/buildPicasaOptions.php:17
+#: common/inc/pages/parts/buildSmugMugOptions.php:17
+msgid "Basic"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:18
+msgid "Quick Advanced"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:19
+msgid "Advanced Photoset"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:20
+msgid "Advanced Search"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:24
+msgid "Select the set of flickr options you would like to work with"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:29
+msgid "For Flickr you have three options:"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:31
+msgid "Basic will bring you to a frame that you can enter your Flickr RSS feed into."
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:32
+msgid "Advance Photoset will bring you to a frame where you will be able to enter the ID to the photoset you want to grab images from."
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrOptions.php:33
+msgid "Advanced Search will bring you to a frame where you will be able to enter a USER ID, a Group ID, and/or Tags to grab images from."
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrPhotoset.php:9
+msgid "Flickr Photoset"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrPhotoset.php:12
+msgid "Flickr Photoset ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrPhotoset.php:14
+msgid "The photoset id for the Flickr set you want to pull from; if you provided one under \"Flickr Params\" then just select from the below dropdown"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrPhotoset.php:17
+msgid "Flickr Stored Photoset ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrPhotoset.php:28
+#: common/inc/pages/parts/manager/panel.php:66
+msgid "No Photoset ID stored"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:9
+msgid "Flickr Search"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:12
+msgid "Flickr User ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:14
+msgid "The userid for the Flickr account you want to pull from; if you provided one under \"Flickr Params\" then just select from the below dropdown"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:17
+msgid "Flickr Stored User ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:28
+#: common/inc/pages/parts/manager/panel.php:41
+msgid "No User ID stored"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:36
+msgid "Flickr Group ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:42
+msgid "Flickr Tags"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:44
+msgid "Comma separated tag list"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:48
+msgid "Flickr Tag Mode"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:52
+msgid "Any (or)"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:53
+msgid "All (and)"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:60
+msgid "Flickr Sort Option"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:64
+msgid "Date Posted Ascending"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:65
+msgid "Date Posted Descending"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:66
+msgid "Date Taken Ascending"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:67
+msgid "Date Taken Descending"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:68
+msgid "Interestingness Ascending"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:69
+msgid "Interestingness Descending"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrSearch.php:70
+msgid "Relevance"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrThumbnails.php:9
+msgid "Flickr Thumbnail Size"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrThumbnails.php:12
+msgid "Select a thumbnail size for Flickr"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrThumbnails.php:15
+#: common/inc/pages/parts/manager/panel.php:134
+msgid "Square"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrThumbnails.php:16
+#: common/inc/pages/parts/manager/panel.php:135
+msgid "Thumbnail"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrThumbnails.php:20
+#: common/inc/pages/parts/buildFlickrThumbnails.php:34
+msgid "Orginal"
+msgstr ""
+
+#: common/inc/pages/parts/buildFlickrThumbnails.php:28
+msgid "Select a Large size for Flickr"
+msgstr ""
+
+#: common/inc/pages/parts/buildGalleryOptions.php:9
+msgid "Gallery Options"
+msgstr ""
+
+#: common/inc/pages/parts/buildGalleryOptions.php:13
+msgid "Name your gallery"
+msgstr ""
+
+#: common/inc/pages/parts/buildGalleryOptions.php:17
+msgid "Select the gallery style"
+msgstr ""
+
+#: common/inc/pages/parts/buildGalleryOptions.php:28
+msgid "Optional Params"
+msgstr ""
+
+#: common/inc/pages/parts/buildLocal.php:9
+msgid "Local Call"
+msgstr ""
+
+#: common/inc/pages/parts/buildLocal.php:10
+msgid "This option will get all the images that were inserted into the database via the basic wordpress upload."
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaAdvanced.php:9
+msgid "Picasa Advanced"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaAdvanced.php:12
+msgid "Picasa User ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaAdvanced.php:14
+msgid "if you provided one under \"Picasa Params\" then just select from the below dropdown."
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaAdvanced.php:17
+msgid "Picasa Stored User ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaAdvanced.php:28
+#: common/inc/pages/parts/buildSmugMugAdvance.php:28
+#: common/inc/pages/parts/manager/panel.php:166
+msgid "No User IDs stored"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaAdvanced.php:35
+msgid "Picasa Album ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaAdvanced.php:37
+msgid "You have three options here, you can enter the album name that comes after the user id in the url of your album (eg. /myid/ThisIsAAlbum == ThisIsAAlbum) or you can enter the number id that you can get from the rss feed itself, or you can hit \"grab\" just below and grab what you need from the dropdown."
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaBasic.php:10
+msgid "Picasa Basic"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaBasic.php:13
+msgid "Your Picasa Album URL"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaBasic.php:15
+msgid "Input the URL for the RSS feed for your Picasa"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaOptions.php:10
+msgid "Picasa Options"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaOptions.php:18
+#: common/inc/pages/parts/buildSmugMugOptions.php:18
+msgid "Advanced"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaOptions.php:22
+msgid "Select the set of Picasa options you would like to work with"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaOptions.php:28
+msgid "Basic: This option will will allow you to just supply the RSS feed url for a Picasa album"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaOptions.php:29
+msgid "Advanced: This option will accept your picasa username and will allow you to grab a list of albums to pull photos from"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaThumbnails.php:10
+msgid "Picasa Thumbnail Size"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaThumbnails.php:13
+msgid "Select a thumbnail size for Picasa"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaThumbnails.php:19
+#: common/inc/pages/parts/buildPicasaThumbnails.php:20
+#: common/inc/pages/parts/buildPicasaThumbnails.php:21
+#: common/inc/pages/parts/buildPicasaThumbnails.php:22
+#: common/inc/pages/parts/buildPicasaThumbnails.php:23
+#: common/inc/pages/parts/buildPicasaThumbnails.php:34
+#: common/inc/pages/parts/buildPicasaThumbnails.php:35
+#: common/inc/pages/parts/buildPicasaThumbnails.php:36
+#: common/inc/pages/parts/buildPicasaThumbnails.php:37
+#: common/inc/pages/parts/buildPicasaThumbnails.php:38
+msgid "width"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaThumbnails.php:31
+msgid "Select a full size for Picasa"
+msgstr ""
+
+#: common/inc/pages/parts/buildPicasaThumbnails.php:42
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:38
+msgid "Select the size of the full size image you want to display in the plugin."
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:9
+msgid "Select Service"
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:14
+msgid "Please select an option from where you will be pulling your images from"
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:24
+msgid "This option will allow you to get photos from your Picasa account"
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:35
+msgid "This option will allow you to get photos from Flickr."
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:46
+msgid "This option will allow you to get photos from your SmugMug account "
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:55
+msgid "Album"
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:59
+msgid "This option will pull your gallery information from a Album that you create(d) under the Album Manage tab"
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:67
+msgid "Locally from Database"
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:71
+msgid "This option will pull your gallery information from the database grabbing all attachments that are JPG, GIF, or PNG."
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:79
+msgid "Browsable Directory"
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:83
+msgid "This option will pull your gallery information from a folder on your server.  This will only grab that paths images in the folder supplied and all child folders."
+msgstr ""
+
+#: common/inc/pages/parts/buildServices.php:84
+#: common/inc/pages/parts/optionsBase.php:42
+#: common/inc/pages/parts/optionsServices.php:42
+msgid "Note: This option needs to be reworked.  I am keeping this option here to force myself to get it working correctly"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugAdvance.php:9
+msgid "SmugMug Advanced"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugAdvance.php:12
+msgid "SmugMug User ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugAdvance.php:14
+msgid "if you provided one under \"SmugMug Params\" then just select from the below dropdown."
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugAdvance.php:17
+#: common/inc/pages/parts/manager/panel.php:153
+msgid "SmugMug Stored User ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugAdvance.php:35
+msgid "SmugMug Album ID"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugBasic.php:10
+msgid "SmugMug Basic"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugBasic.php:13
+msgid "Your SmugMug URL"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugBasic.php:15
+msgid "Input the URL for the RSS feed for your SmugMug account"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugOptions.php:10
+msgid "SmugMug Options"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugOptions.php:22
+msgid "Select the set of  SmugMug options you would like to work with"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugOptions.php:27
+msgid "For SmugMug you have two options:"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugOptions.php:32
+msgid "Advance will bring you to a screen where you will need to enter your API key and then you will be able to select albums based on your username"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:9
+msgid "SmugMug Thumbnail Size"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:12
+msgid "Select a thumbnail size for SmugMug"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:15
+#: common/inc/pages/parts/manager/panel.php:239
+msgid "up to 100 x up to 100"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:16
+#: common/inc/pages/parts/manager/panel.php:240
+msgid "up to 150 x up to 150"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:17
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:31
+#: common/inc/pages/parts/manager/panel.php:241
+msgid "up to 400 x up to 300"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:18
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:32
+#: common/inc/pages/parts/manager/panel.php:242
+msgid "up to 600 x up to 450"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:19
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:33
+#: common/inc/pages/parts/manager/panel.php:243
+msgid "up to 800 x up to 600"
+msgstr ""
+
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:20
+#: common/inc/pages/parts/buildSmugMugThumbnails.php:34
+msgid "up to 1024 x up to 768"
+msgstr ""
+
+#: common/inc/pages/parts/buildStructure.php:9
+msgid "Structure"
+msgstr ""
+
+#: common/inc/pages/parts/buildStructure.php:13
+msgid "Below you will find a list of possible stuctures, these structures are unstyled and will be what people will see if javascript is turned off."
+msgstr ""
+
+#: common/inc/pages/parts/buildStructure.php:16
+msgid "List Structure"
+msgstr ""
+
+#: common/inc/pages/parts/buildStructure.php:21
+msgid "Table Structure (image over associated text)  "
+msgstr ""
+
+#: common/inc/pages/parts/buildStructure.php:26
+msgid "Table Structure (no text)"
+msgstr ""
+
+#: common/inc/pages/parts/buildStructure.php:31
+msgid "Div Structure (image over associated text)"
+msgstr ""
+
+#: common/inc/pages/parts/buildStructure.php:35
+msgid "Div Structure (no text)"
+msgstr ""
+
+#: common/inc/pages/parts/edit_image.php:10
+msgid "Image Editor"
+msgstr ""
+
+#: common/inc/pages/parts/edit_image.php:12
+msgid "Still in developement, but the goal is to give the ability to minipulate you photos in what ever way possible."
+msgstr ""
+
+#: common/inc/pages/parts/edit_image.php:13
+msgid "There is not ETA on completion, but updates will come as soon as possible."
+msgstr ""
+
+#: common/inc/pages/parts/flickrParams.php:10
+msgid "Flickr Userid"
+msgstr ""
+
+#: common/inc/pages/parts/flickrParams.php:12
+msgid "The userid for the Flickr account you want to pull from; you can enter multiple USERIDes but they must be separated by a comma. (eg: userid#1, userid#2)  You must obtain an API if you want to pull via user id."
+msgstr ""
+
+#: common/inc/pages/parts/flickrParams.php:15
+msgid "Photoset ID"
+msgstr ""
+
+#: common/inc/pages/parts/flickrParams.php:17
+msgid "If there are certain sets you want to pull from mutliple times, post those ids here separated by a comma.    You must obtain an API if you want to pull via photoset id."
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:7
+#: common/inc/pages/parts/optionsBasic.php:7
+#: common/inc/pages/parts/optionsServices.php:7
+msgid "Options Overview"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:10
+#: common/inc/pages/parts/optionsServices.php:10
+msgid "Check the services you want to use:"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:14
+#: common/inc/pages/parts/optionsServices.php:14
+msgid "Use Picasa"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:14
+#: common/inc/pages/parts/optionsBase.php:19
+#: common/inc/pages/parts/optionsBase.php:24
+#: common/inc/pages/parts/optionsBase.php:29
+#: common/inc/pages/parts/optionsBase.php:34
+#: common/inc/pages/parts/optionsBase.php:39
+#: common/inc/pages/parts/optionsBasic.php:16
+#: common/inc/pages/parts/optionsBasic.php:25
+#: common/inc/pages/parts/optionsBasic.php:34
+#: common/inc/pages/parts/optionsBasic.php:43
+#: common/inc/pages/parts/optionsServices.php:14
+#: common/inc/pages/parts/optionsServices.php:19
+#: common/inc/pages/parts/optionsServices.php:24
+#: common/inc/pages/parts/optionsServices.php:29
+#: common/inc/pages/parts/optionsServices.php:34
+#: common/inc/pages/parts/optionsServices.php:39
+msgid "yes"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:16
+#: common/inc/pages/parts/optionsBase.php:21
+#: common/inc/pages/parts/optionsBase.php:26
+#: common/inc/pages/parts/optionsBase.php:31
+#: common/inc/pages/parts/optionsBase.php:36
+#: common/inc/pages/parts/optionsBase.php:41
+#: common/inc/pages/parts/optionsBasic.php:19
+#: common/inc/pages/parts/optionsBasic.php:28
+#: common/inc/pages/parts/optionsBasic.php:37
+#: common/inc/pages/parts/optionsBasic.php:46
+#: common/inc/pages/parts/optionsServices.php:16
+#: common/inc/pages/parts/optionsServices.php:21
+#: common/inc/pages/parts/optionsServices.php:26
+#: common/inc/pages/parts/optionsServices.php:31
+#: common/inc/pages/parts/optionsServices.php:36
+#: common/inc/pages/parts/optionsServices.php:41
+msgid "no"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:19
+#: common/inc/pages/parts/optionsServices.php:19
+msgid "Use Flickr"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:24
+#: common/inc/pages/parts/optionsServices.php:24
+msgid "Use SmugMug"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:29
+#: common/inc/pages/parts/optionsServices.php:29
+msgid "Use Album"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:34
+#: common/inc/pages/parts/optionsServices.php:34
+msgid "Use Local"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBase.php:39
+#: common/inc/pages/parts/optionsServices.php:39
+msgid "Use Browse"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasic.php:10
+msgid "Effects that can be turned off:"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasic.php:14
+msgid "Use Slide Effect on \"Select services\""
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasic.php:23
+msgid "Show PhotoXhibit Manager on the write/edit pages for photo insertion"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasic.php:32
+msgid "If you are having issues with the Album photo uploader, ie. 403 errors, or you don't have Flash 9 installed, set this to no"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasic.php:41
+msgid "If you are having issues with the Styles not updating when trying to edit styles, set this to no"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:10
+msgid "Upload Path"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:12
+msgid "This is the default path for uploading your images"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:15
+msgid "Album Delete All"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:17
+msgid "By default, the images and folder associated with an album will not be deleted when an album is dropped, check this box if you want to drop all associated."
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:20
+msgid "Image Deletion"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:22
+msgid "By default, images are deleted from the server when they are deleted from the database, uncheck this box if you don't want this."
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:25
+msgid "Keep an original"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:27
+msgid "Check this box if you want to have an unmodified version as well as the modifed size below."
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:30
+msgid "Max Size of Image"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:36
+msgid "This is the default max height and width of image uploaded (eg. if image is 1600 x 1000 it will get resized to, while keeping aspect ratio, to these numbers)"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:39
+msgid "Image Quality"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:43
+#: common/inc/pages/parts/optionsBasics.php:85
+msgid "Specify the JPEG quality factor (from 0 to 100). This option will be used when manipulating JPEG images."
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:46
+msgid "Number of thumbnails and sizes"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:53
+msgid "Thumbnail set #1"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:56
+msgid "1 thumbnail at"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:67
+msgid "Thumbnail set #2 (check this if you want a second resize thumbnail)"
+msgstr ""
+
+#: common/inc/pages/parts/optionsBasics.php:81
+msgid "Thumbnail Quality"
+msgstr ""
+
+#: common/inc/pages/parts/picasaParams.php:10
+msgid "Picasa Userid"
+msgstr ""
+
+#: common/inc/pages/parts/picasaParams.php:12
+msgid "The userid for the Picasa account you want to pull from; you can enter multiple USERIDes but they must be separated by a comma. (eg: userid#1, userid#2)"
+msgstr ""
+
+#: common/inc/pages/parts/smugMugParams.php:18
+msgid "SmugMug Userid"
+msgstr ""
+
+#: common/inc/pages/parts/smugMugParams.php:20
+msgid "The userid for the SmugMug account you want to pull from; you can enter multiple USERIDes but they must be separated by a comma. (eg: userid#1, userid#2)"
+msgstr ""
+
+#: common/inc/pages/parts/usage.php:8
+msgid "PhotoXhibit Usage"
+msgstr ""
+
+#: common/inc/pages/parts/usage.php:10
+msgid "For use in your theme"
+msgstr ""
+
+#: common/inc/pages/parts/usage.php:12
+msgid "Open <strong>wp-content/themes/&lt;YOUR THEME NAME&gt;/sidebar.php</strong> or where ever you want to put the gallery"
+msgstr ""
+
+#: common/inc/pages/parts/usage.php:14
+msgid "Add"
+msgstr ""
+
+#: common/inc/pages/parts/usage.php:24
+msgid "Change the \"2\" to the id of the gallery you want to show, you will find this id in the \"Manage Gallery\" tab. <strong> NOTE:</strong> if you are not going to use it with in you sidebar.php's List structure, just get rid of the &lt;li&gt; and &lt;/li&gt;"
+msgstr ""
+
+#: common/inc/pages/parts/usage.php:29
+msgid "For use in your post"
+msgstr ""
+
+#: common/inc/pages/parts/usage.php:32
+msgid "Change the \"2\" to the id of the gallery you want to show, you will find this id in the \"Manage Gallery\" tab."
+msgstr ""
+
+#: common/inc/pages/parts/manager/panel.php:13
+msgid "Flickr"
+msgstr ""
+
+#: common/inc/pages/parts/manager/panel.php:16
+msgid "SmugMug"
+msgstr ""
+
+#: common/inc/pages/parts/manager/panel.php:18
+msgid "Picasa"
+msgstr ""
+
+#: common/inc/pages/parts/manager/panel.php:130
+msgid "Size and Insert"
+msgstr ""
+
+#: common/inc/pages/parts/manager/panel.php:132
+msgid "Picture Size:"
+msgstr ""
+
+#: common/inc/pages/parts/manager/panel.php:141
+msgid "Include link to image"
+msgstr ""
+
+#: common/views/album/edit_images.php:74
+msgid "A folder named"
+msgstr ""
+
+#: common/views/album/edit_images.php:77
+msgid "needs to be manually created in the"
+msgstr ""
+
+#: common/views/album/edit_images.php:77
+msgid "folder"
+msgstr ""
+
+#: common/views/album/edit_images.php:80
+msgid "Album Images"
+msgstr ""
+
+#: common/views/album/edit_images.php:95
+msgid "Image Name:"
+msgstr ""
+
+#: common/views/album/edit_images.php:98
+msgid "Image Alt/Title:"
+msgstr ""
+
+#: common/views/album/edit_images.php:101
+msgid "Image Tags:"
+msgstr ""
+
+#: common/views/album/edit_images.php:104
+msgid "Is Active:"
+msgstr ""
+
+#: common/views/album/edit_images.php:107
+msgid "Description:"
+msgstr ""
+
+#: common/views/album/edit_images.php:111
+msgid "Delete Image"
+msgstr ""
+
+#: common/views/album/edit_images.php:113
+msgid "Edit text"
+msgstr ""
+
+#: common/views/album/edit_images.php:115
+msgid "Edit Image"
+msgstr ""
+
+#: common/views/album/edit_images.php:134
+msgid "Multiple Photo Upload (flash version)"
+msgstr ""
+
+#: common/views/album/edit_images.php:137
+msgid "Upload file"
+msgstr ""
+
+#: common/views/album/edit_images.php:138
+msgid "Cancel Uploads"
+msgstr ""
+
+#: common/views/album/edit_images.php:143
+msgid "Multiple Photo Upload"
+msgstr ""
+
+#: common/views/album/edit_images.php:147
+msgid "Submit Files"
+msgstr ""
+
+#: common/views/album/edit_image_attr.php:8
+msgid "Changes have been made, click the arrow in the top right corner of the modal box to close."
+msgstr ""
+
+#: common/views/album/edit_image_attr.php:12
+msgid "Image Alt / Title"
+msgstr ""
+
+#: common/views/album/edit_image_attr.php:16
+msgid "Image Tags"
+msgstr ""
+
+#: common/views/album/edit_image_attr.php:18
+msgid "seperate with commas"
+msgstr ""
+
+#: common/views/album/edit_image_attr.php:21
+msgid "Is active?"
+msgstr ""
+
+#: common/views/album/edit_image_attr.php:28
+msgid "No"
+msgstr ""
+
+#: common/views/album/edit_image_attr.php:31
+msgid "Description"
+msgstr ""
+
+#: common/views/gallery/manager.php:13
+msgid "PhotoXhibit Galleries"
+msgstr ""
+
+#: common/views/gallery/manager.php:18
+msgid "Post Code"
+msgstr ""
+
+#: common/views/gallery/manager.php:19
+msgid "Gallery Title"
+msgstr ""
+
+#: common/views/gallery/manager.php:20
+msgid "Gallery Type"
+msgstr ""
+
+#: common/views/gallery/manager.php:42
+msgid "edit"
+msgstr ""
+
+#: common/views/gallery/manager.php:47
+msgid "new window"
+msgstr ""
+
+#: common/views/gallery/manager.php:62
+msgid "No Galleries Found"
+msgstr ""
+

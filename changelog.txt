@@ -1,0 +1,116 @@
+PhotoXhibit
+by Benjamin Sterling @ http://benjaminsterling.com
+v2.1.6 - 04.13.2008
+- Bugfix	: more fixs geared toward WP 2.5
+
+v2.1.5 - 04.05.2008
+- Bugfix	: for WP 2.5 where the new manager was not showing up
+- Bugfix	: some servers did not support version_compare so created another function to achieve the same thing
+- Changed	: do to the changes that need to be made for 2.5 I was forced to make an overall change of the js system
+
+v2.1.4 - 04.01.2008
+- Changed	: the way the plugin reacts on the category and tag pages
+- Changed	: changed the order of echoing code to help with category pages
+
+v2.1.3 - 03.30.2008
+- Changed	: encodeToUtf8 function to account for some servers not using mb_convert_encoding
+- Added	: a switch to check to see if a the WP version is 2.5 or higher
+
+v2.1.2 - 03.25.2008
+- Bugfix	: parsing error of flickr albums from rss
+
+v2.1.1 - 03.24.2008
+- Bugfix	: for some reason, updating to 2.1 from 2.0.10 was causing issues, code added to fix assumed issues
+
+v2.1 - 03.23.2008
+- Bugfix	: double images when using thickbox
+- Added	: better descriptive text to build gallery and manager page
+- Bugfix	: Missing code for DIV structures
+- Added	: an alternative for multiple uploading if flash is not currect or producing 403 errors
+- Removed	: Browse option from services
+- Removed	: Use large image from build gallery page
+- Added	: Large image sizes to the "thumbnail" selectors on build gallery page
+- Added	: Ability to add PhotoXhibit to the blog-roll
+- Added	: automatically grabbing album ids for picasa and smugmug when using dropdown
+- Bugfix	: alt text not showing up
+- Bugfix	: alt text foreign characters not encoding correctly
+- Added	: the ability to turn of the ajax version of the edit styles
+- Added	: new plugin jqshuffle, lightbox ba edition
+- Updated : plugins thickbox, jqGalView, jqGalViewII, jqGalScroll
+
+v2.1rc1 - 03.08.2008
+- Added	- PhotoXhibit manager to the write/edit pages
+
+v2.0.10 - 03.04.2008
+- Changed - Styles and Js for the LightBox Plugin to call image via CSS not JS
+- Added	- The ability to turn off the slider in Build Gallery
+- Added	- Translation Code
+- Added	- Code to prevent viewing any of the page parts directly
+- Changed - the way the plugin creates folders by usings WPs default function
+- Added	- some checks for safe_mode and posted direction text if it is on
+- Chanded	- Made it so that the code does not get printed out on the archive and category pages
+
+v2.0.9 - 03.02.2008
+- Bugfix	: incorrect path for jquery
+
+v2.0.8 - 03.01.2008
+- Bugfix	: local calls not calling
+- Bugfix	: incorrect path for jquery
+- Added	: the ability to edit the alt text for any given gallery's photos
+- Added	: some checks for GD support
+
+v2.0.7 - 02.29.2008
+- Updated	: jQuery Framework to 1.2.3
+- Updated	: jQuery UI to 1.5b
+- Bugfix	: The two updated fixed issues of sorting and "add all" for opera
+
+v2.0.6 - 02.28.2008
+- Bugfix	: Album call for build gallery was calling jsonp not json
+- Bugfix	: Incorrect paths for Album Manager
+
+V2.0.5 - 02.26.2008
+- Removed : All Ajax communication to the server when calling a service
+			do to global compatibility between servers
+- Bugfix	: Path to images in lightbox.js
+- Removed : Support for basic SmugMug, advanced is actually easier
+- Added	: Do Respect links to about page for classes being used
+- Bugfix	: Edit not processing images correctly
+
+
+V2.0.4 - 02.23.2008
+- Change  : Changed the way the error message is displayed
+- Added	: Some text that will show if allow_url_fopen is on or off and
+			then give notice
+- Changed	: Some text through for better directions/information
+- Changed : Some JavaScript code to accomidate people with allow_url_fopen off
+- Removed	: The need for the end user to get a SmugMug API key
+- Bugfix	: Fixed values not showing when editing gallery
+
+V2.0.3 - 02.21.2008
+- Bugfix	: jQuery forces a JSONP call when the url for an AJAX is a full one
+			had to recode to be able to use /urlroot/wp-content/...
+
+V2.0.2 - 02.20.2008
+- Bugfix	: Adding Margin-left to the px_gut styles to make IE happy
+- Added	: Support for Flickr Photoset RSS feed
+- Added	: Support for Flickr Tags RSS feed
+- Bugfix	: Fixed database issue which was making the album builder fail
+- Change	: Changed the Albums table version number to force install
+- Change	: Changed the install/upgrade functions
+- Added	: Support for Custom SmugMug RSS feed links
+
+V2.0.1 - 02.20.2008
+- Bugfix	: Added missing include file
+
+V2.0 - 02.19.2008
+- Bugfix	: Missing default value for Album sortorder in sql code
+- Bugfix	: Changed WINABSPATH to ABSPATH because was not working as expected
+- Bugfix	: Changed file name of jqModal to jqmodal.js
+- Bugfix	: Used a JavaScript reserved word and IE called me on it
+- Bugfix	: Fixed some incorrect text
+- Bugfix	: Added more description text
+
+V2.0rc2 - 02.17.2008
+- Added	: Missing JSON processing for SmugMug Advance feature
+- Added	: Image count for SmugMug album list
+- Bugfix	: Fixed lightbox and thickbox not working correctly on preview
