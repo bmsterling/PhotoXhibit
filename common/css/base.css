@@ -224,9 +224,10 @@ a.progressCancel:hover
 	margin:0;
 	margin-left:-325px;
 	left:50%;
-	top:0;
+	top:27px;
 	position:fixed;
 	z-index:300;
+    padding-left:30px;
 }
 
 .hover { background: #000; }

@@ -676,7 +676,7 @@ if(!class_exists("px")){
 			$this->styles = array('base.css');
 			$this->loadCss();
 
-			$this->js = array('jquery','ui','core','json','blockUI','ease','dimension');
+			$this->js = array(/*'jquery',*/'ui','core','json','blockUI','ease'/*,'dimension'*/);
 			$this->getOptions();
 			$this->loadJs();
 
