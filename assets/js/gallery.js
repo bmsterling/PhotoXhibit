@@ -285,10 +285,15 @@
                     'click #toggle-all' : 'toggleAllSelected'
                 },
                 
+                change : function () {
+                    console.log('change');
+                },
+                
                 initialize: function() {
                     Selected.bind('add', this.addOne,this);
                     Selected.bind('reset', this.addAll,this);
                     Selected.bind('all', this.render,this);
+                    Selected.bind('change', this.change,this);
                     
                     this.$el.slideDown();
                     
@@ -297,12 +302,16 @@
                         
                         receive : function (event, ui) {
                             var 
+                                newItem = $(this).data().sortable.currentItem,
                                 cid = $(ui.item).data('cid'),
                                 model;
+                                
+                            newItem.remove();
                                 
                             model = Selectables.getByCid(cid).toJSON();
                             
                             Selected.add(model);
+                            
                         }
                     });
                     /*
@@ -330,9 +339,9 @@
                 },
                 
                 addOne: function(selected) {
-                    // var view = new PhotoView({model:selected});
+                    var view = new PhotoView({model:selected});
 
-                    // this.$el.append(view.render().el);
+                    this.$el.append(view.render().el);
                 },
                 
                 addAll: function() {
