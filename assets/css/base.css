@@ -1,0 +1,134 @@
+.action-area{
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    -webkit-box-shadow: 0 1px 0 #fff;
+    box-shadow: 0 1px 0 #fff;
+    border-bottom-color: #dfdfdf;
+    padding: 10px 0 8px;
+}
+.action-button{
+    padding: 10px 0 8px;
+    clear: both;
+    border-top: 1px solid #f5f5f5;
+    margin-top: -2px;
+}
+
+.interaction-panel{
+    height:400px;
+    overflow: hidden;
+    position: relative;
+}
+
+.interaction-panel .attachments{
+    bottom: 0;
+    left: 0;
+    overflow: auto;
+    position: absolute;
+    right: 0;
+
+    top:29px;
+    margin:0;
+    padding:8px;
+    
+    list-style:none;
+}
+
+.interaction-panel .attachment {
+
+    position: relative;
+    float: left;
+
+    padding: 0;
+    margin: 0 10px 20px;
+    color: #464646;
+    list-style: none;
+    text-align: center;
+
+    -webkit-user-select: none;
+    -moz-user-select:    none;
+    -ms-user-select:     none;
+    -o-user-select:      none;
+    user-select:         none;
+
+    width:14%;
+    max-width:150px;
+    min-width:75px;
+    
+    max-height:150px;
+    min-height:75px;
+}
+
+.interaction-panel .attachment *{
+    width:100%;
+    height:100%;
+}
+
+
+/*
+.interaction-panel .attachment-preview {
+    position: relative;
+	max-width: 100%;
+	max-height: 100%;
+    box-shadow:
+        inset 0 0 15px rgba( 0, 0, 0, 0.1 ),
+        inset 0 0 0 1px rgba( 0, 0, 0, 0.05 );
+    background: #eee;
+    cursor: pointer;
+}
+
+.interaction-panel .attachment .icon {
+	margin: 0 auto;
+	overflow: hidden;
+	padding-top: 20%;
+}
+
+.interaction-panel .attachment .thumbnail {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	margin: 0 auto;
+	overflow: hidden;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.interaction-panel .attachment-preview .thumbnail:after {
+	content: '';
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	box-shadow: inset 0 0 0 1px rgba( 0, 0, 0, 0.1 );
+	overflow: hidden;
+}
+
+.interaction-panel .attachment .thumbnail img {
+	top: 0;
+	left: 0;
+    width:100%;
+    height:100%;
+}
+
+.interaction-panel .attachment .thumbnail .centered {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	-webkit-transform: translate( 50%, 50% );
+	-moz-transform:    translate( 50%, 50% );
+	-ms-transform:     translate( 50%, 50% );
+	-o-transform:      translate( 50%, 50% );
+	transform:         translate( 50%, 50% );
+}
+
+.interaction-panel .attachment .thumbnail .centered img {
+	-webkit-transform: translate( -50%, -50% );
+	-moz-transform:    translate( -50%, -50% );
+	-ms-transform:     translate( -50%, -50% );
+	-o-transform:      translate( -50%, -50% );
+	transform:         translate( -50%, -50% );
+}*/
